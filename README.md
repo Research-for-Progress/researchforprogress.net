@@ -1,2 +1,3 @@
-# researchforprogress.net
-Homepage on the web for researchforprogress.net
+# Research for Progress
+
+The intelligence operator academy for the progressive movement.
