@@ -24,7 +24,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/undraw_Documents_re_isxv.png
+  - image_path: /assets/images/undraw_Documents_re_isxv.png`
     alt: "placeholder image 2"
     title: "Our Winning Aspiration"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'

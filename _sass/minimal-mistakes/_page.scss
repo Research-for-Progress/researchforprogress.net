@@ -166,7 +166,7 @@ body {
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
 
-  &--overlay {
+  &--overlay {  
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
@@ -194,10 +194,10 @@ body {
 
     .page__title,
     .page__meta,
-    .page__lead,
-    .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    .page__lead
+        {
+      color: $primary-color;
+    //   text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {
