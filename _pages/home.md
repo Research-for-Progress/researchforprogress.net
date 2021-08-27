@@ -19,7 +19,7 @@ intro:
 feature_row:
   - image_path: /assets/images/undraw_map_1r69.png
     alt: "placeholder image 1"
-    title: "Diverse"
+    title: "Recruit"
     excerpt: "Recruit diverse, *new* talent to the progressive movement"
   - image_path: /assets/images/undraw_voting_nvu7.png
     alt: "placeholder image 2"
