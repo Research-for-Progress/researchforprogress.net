@@ -89,6 +89,7 @@ feature_row5:
     		</div>
     		<div class="desc">
             <ul>
+                <li>Establish annual budet.</li>
                 <li>Establish formal organizational model.</li>
                 <li>Set staffing model.</li>
                 <li>Establish operating model.</li>
@@ -102,9 +103,18 @@ feature_row5:
     	<div class="direction-r">
     		<div class="flag-wrapper">
     			<span class="flag">Q1 2022</span>
-    			<span class="time-wrapper"><span class="time">2008 - 2011</span></span>
+    			<span class="time-wrapper"><span class="time">January - March</span></span>
     		</div>
-    		<div class="desc">A description of all the lectures and courses I have taken and my final degree?</div>
+    		<div class="desc">
+            <ul>
+                <li>Hire leadership team.</li>
+                <li>Refine and implement operating model with leadership team.</li>
+                <li>Lanuch!</li>
+                <li>Begin recruiting first class.</li>
+                <li></li>
+            </ul>
+
+            </div>
     	</div>
     </li>
 
