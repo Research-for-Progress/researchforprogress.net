@@ -26,7 +26,7 @@ feature_row3:
   - image_path: /assets/images/undraw_flagged_2uty.png
     alt: "placeholder image 2"
     excerpt: "Our Winning Aspiration"
-    title: "A world with zero marginalized people led by a government that is representative of our communities."
+    title: "A world with zero marginalized people led by governments that are representative of their communities."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
