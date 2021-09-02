@@ -21,17 +21,10 @@ feature_row2:
     excerpt: "The Problem"
     title: "The progressive movement is not representative of the communities we seek to represent."
 feature_row3:
-<<<<<<< HEAD
-  - image_path: /assets/images/undraw_candidate_ubwv.png
-    alt: "placeholder image 2"
-    excerpt: "Our Winning Aspiration"
-    title: "A world with zero marginalized people led by governments that are representative of the communities they serve."
-=======
   - image_path: /assets/images/undraw_team_ih79.png
     alt: "placeholder image 2"
     excerpt: "Our Winning Aspiration"
     title: "A world with zero marginalized people led by governments that are representative of their communities."
->>>>>>> origin/staging
 feature_row4:
   - image_path: /assets/images/undraw_Calendar_re_ki49.png
     alt: "placeholder image 2"
@@ -107,7 +100,7 @@ feature_row5:
             <ol>
                 <li>Hire leadership team.</li>
                 <li>Refine and implement operating model with leadership team.</li>
-                <li>Lanuch!</li>
+                <li>Launch!</li>
                 <li>Begin recruiting first class.</li>
                 <li></li>
             </ol>
