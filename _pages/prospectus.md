@@ -13,39 +13,28 @@ header:
       url: "/sign-up"
       btn_class: "btn--success"
       btn_color: ""
-excerpt: "Our plan."
+excerpt: "Our plan: We will recruit diverse talent, train them in political research and intelligence tradecraft, and place them on the
+front lines of the progressive fight."
 feature_row2:
   - image_path: /assets/images/undraw_flagged_2uty.png
     alt: "placeholder image 2"
     excerpt: "The Problem"
     title: "The progressive movement is not representative of the communities we seek to represent."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/undraw_flagged_2uty.png
+  - image_path: /assets/images/undraw_team_ih79.png
     alt: "placeholder image 2"
     excerpt: "Our Winning Aspiration"
     title: "A world with zero marginalized people led by governments that are representative of their communities."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/undraw_flagged_2uty.png
+  - image_path: /assets/images/undraw_Calendar_re_ki49.png
     alt: "placeholder image 2"
     excerpt: "Our Plan"
     title: "We will recruit  diverse talent, train them in political research and intelligence tradecraft, and place them on the front lines of the progressive fight."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 feature_row5:
-  - image_path: /assets/images/undraw_flagged_2uty.png
+  - image_path: /assets/images/undraw_Selecting_team_re_ndkb.png
     alt: "placeholder image 2"
     excerpt: "How We Will Win"
     title: "We will be relentless in our pursuit of the most talented future progressive leaders."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -69,13 +58,13 @@ feature_row5:
     			<span class="time-wrapper"><span class="time">July - September</span></span>
     		</div>
     		<div class="desc">
-            <ul>
+            <ol>
                 <li>Establish strategic outline.</li>
-                <li>Recruit board of directors and establish financial committment of board organizations.</li>
+                <li>Recruit board of directors.</li>
                 <li>Draft start-up budget for board apporval.</li>
                 <li>Host preliminary discussion with board.</li>
                 <li>Board approval of this roadmap.</li>
-            </ul>
+            </ol>
             </div>
     	</div>
     </li>
@@ -88,12 +77,14 @@ feature_row5:
     			<span class="time-wrapper"><span class="time">October - December </span></span>
     		</div>
     		<div class="desc">
-            <ul>
+            <ol>
                 <li>Establish annual budet.</li>
-                <li>Establish formal organizational model.</li>
+                <li>Establish formal organizational model and incorporate.</li>
                 <li>Set staffing model.</li>
                 <li>Establish operating model.</li>
-            </ul>
+                <li>Confirm board of directors and financial committment.</li>
+                <li>Confirm advisory board of technical experts (trainers) and time committment.</li>
+            </ol>
         </div>
     	</div>
     </li>
@@ -106,16 +97,15 @@ feature_row5:
     			<span class="time-wrapper"><span class="time">January - March</span></span>
     		</div>
     		<div class="desc">
-            <ul>
+            <ol>
                 <li>Hire leadership team.</li>
                 <li>Refine and implement operating model with leadership team.</li>
                 <li>Lanuch!</li>
                 <li>Begin recruiting first class.</li>
                 <li></li>
-            </ul>
+            </ol>
 
             </div>
     	</div>
     </li>
-
 </ul>
