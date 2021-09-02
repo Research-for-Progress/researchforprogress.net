@@ -16,7 +16,7 @@
 title: Research for Progress
 email: info@researchforprogress.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The intelligence operator school for the progressive movement.
+  The intelligence operator academy for the progressive movement.
 twitter_username: search4progress
 github_username: search4progress
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Research for Progress"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The intelligence operator school for the progressive movement."
+  bio    : "  The intelligence operator academy for the progressive movement."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

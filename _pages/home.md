@@ -13,7 +13,7 @@ header:
       url: "/sign-up"
       btn_class: "btn--success"
       btn_color: ""
-excerpt: "The intelligence operator school for the progressive movement."
+excerpt: "The intelligence operator academy for the progressive movement"
 intro: 
   - excerpt:
 feature_row:
